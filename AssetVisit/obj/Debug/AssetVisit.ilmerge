@@ -1,0 +1,7 @@
+AssetVisit.dll
+Nipendo.Common.dll
+Microsoft.Xrm.Tooling.Connector.dll
+Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+Microsoft.Rest.ClientRuntime.dll
+Microsoft.Xrm.Sdk.Deployment.dll
+Newtonsoft.Json.dll

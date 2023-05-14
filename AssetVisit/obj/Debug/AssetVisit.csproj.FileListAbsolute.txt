@@ -1,0 +1,4 @@
+C:\Users\sonya\source\repos\PostCreateAsset\AssetVisit\obj\Debug\AssetVisit.csproj.AssemblyReference.cache
+C:\Users\sonya\source\repos\PostCreateAsset\AssetVisit\obj\Debug\AssetVisit.csproj.CoreCompileInputs.cache
+C:\Users\sonya\source\repos\PostCreateAsset\AssetVisit\obj\Debug\AssetVisit.dll
+C:\Users\sonya\source\repos\PostCreateAsset\AssetVisit\obj\Debug\AssetVisit.pdb
